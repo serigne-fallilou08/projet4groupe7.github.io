@@ -1,0 +1,22 @@
+/* Image de l'arriere plan du header */
+.hero {
+    background: url("img/surf.jpg") no-repeat center center;
+    background-size: cover;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+}
+.hero button {
+    margin: 5px;
+}
+.material-icons .chair .group .flag-circle {
+    font-size: 50px;
+    margin-bottom: 50px;
+}
+.pricing .card {
+    margin: 10px 0;
+}
+
